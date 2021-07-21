@@ -3,19 +3,17 @@
 # Project: https://raw.githubusercontent.com/DaTiC0/hosts/main/hosts
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-#
-#
 
 # [Georgian]
 0.0.0.0 open5.myvideo.ge
 0.0.0.0 counter.top.ge
 0.0.0.0 delivery.promo.ge
-0.0.0.0 
+0.0.0.0 bms.adjarabet.com
+0.0.0.0 bms1.adjarabet.com
+0.0.0.0 bmscontent1.adjarabet.com
 
 # [Other]
 0.0.0.0 pixel.analyticson.ai
 0.0.0.0 betnetmed.advertserve.com
+0.0.0.0 trk.beintoo.net
+0.0.0.0 static.beintoo.net
