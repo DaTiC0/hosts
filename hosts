@@ -1,0 +1,21 @@
+# Title: Block Georgian ads
+# Date: 21 July 2021
+# Project: https://github.com/DaTiC0/hosts/blob/main/hosts
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+#
+#
+
+# [Georgian]
+0.0.0.0 open5.myvideo.ge
+0.0.0.0 counter.top.ge
+0.0.0.0 delivery.promo.ge
+0.0.0.0 
+
+# [Other]
+0.0.0.0 pixel.analyticson.ai
+0.0.0.0 betnetmed.advertserve.com
