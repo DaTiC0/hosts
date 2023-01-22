@@ -5,19 +5,19 @@
 
 
 # [Georgian]
-0.0.0.0 open5.myvideo.ge
-0.0.0.0 counter.top.ge
-0.0.0.0 delivery.promo.ge
-0.0.0.0 bms.adjarabet.com
-0.0.0.0 bms1.adjarabet.com
-0.0.0.0 bmscontent1.adjarabet.com
-0.0.0.0 va.da.ge
-0.0.0.0 adservice.google.ge
+127.0.0.1 open5.myvideo.ge
+127.0.0.1 counter.top.ge
+127.0.0.1 delivery.promo.ge
+127.0.0.1 bms.adjarabet.com
+127.0.0.1 bms1.adjarabet.com
+127.0.0.1 bmscontent1.adjarabet.com
+127.0.0.1 va.da.ge
+127.0.0.1 adservice.google.ge
 
 # [Other]
-0.0.0.0 pixel.analyticson.ai
-0.0.0.0 betnetmed.advertserve.com
-0.0.0.0 trk.beintoo.net
-0.0.0.0 static.beintoo.net
-0.0.0.0 scdn1.sem-vosem.com
-0.0.0.0 cdn.traffer.biz
+127.0.0.1 pixel.analyticson.ai
+127.0.0.1 betnetmed.advertserve.com
+127.0.0.1 trk.beintoo.net
+127.0.0.1 static.beintoo.net
+127.0.0.1 scdn1.sem-vosem.com
+127.0.0.1 cdn.traffer.biz
